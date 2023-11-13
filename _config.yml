@@ -17,7 +17,7 @@ pretty_urls:
   trailing_index: false
   trailing_html: false
 
-theme: ./themes/navy
+theme: /navy
 
 highlight:
   enable: true
