@@ -2,10 +2,10 @@ title: Hexo
 subtitle: "A fast, simple & powerful blog framework powered by Node.js."
 description: "Hexo is a fast, simple & powerful blog framework powered by Node.js."
 author: Hexo
-language: en
-timezone: UTC
+language: tw
+timezone: CTS
 
-url: https://hexo.io
+url: tzuhua.github.io/site2/
 root: /
 permalink: news/:year/:month/:day/:title/
 archive_dir: news
@@ -33,8 +33,4 @@ algolia:
   zh-tw:
     api_key: c83d2ec3440f40aec6d0e695ecec7ef3
     index_name: hexo_zh-tw
-  zh-cn:
-    api_key: cdea7d4e47d84f6145b77e7f68689f35
-    index_name: hexo_zh-cn
-twitter: hexojs
-github: hexojs/hexo
+
