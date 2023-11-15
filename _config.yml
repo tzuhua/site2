@@ -17,7 +17,7 @@ pretty_urls:
   trailing_index: false
   trailing_html: false
 
-theme: hexo-theme-matery
+theme: https://tzuhua.github.io/site2/themes/hexo-theme-matery
 
 highlight:
   enable: true
