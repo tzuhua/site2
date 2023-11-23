@@ -5,8 +5,8 @@ author: Hexo
 language: tw
 timezone: CTS
 
-url: https://tzuhua.github.io/site2/
-root: /
+url: https://tzuhua.github.io/site2
+root: /site2/
 permalink: news/:year/:month/:day/:title/
 archive_dir: news
 code_dir: downloads/code
